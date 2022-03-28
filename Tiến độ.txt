@@ -1,0 +1,31 @@
+- Ôn tập lại vòng lặp, câu lệnh điều kiện.
+- Ôn tập hàm, cách truyền tham chiếu, tham trị.
+- Ôn tập và làm việc với String. (1 buổi).
+- Học về vector. (2 buổi).
+- Con trỏ. (2) 
+- Học về cấu trúc (Structure, Class). (2)
+
+
+=> Làm project trò chơi nhỏ. (Cuối) Lập trình nâng cao!
+=> Tạo được 1 trò chơi đơn giản -> Nhưng ko tối ưu.
+--------------------------------------------
+
+
+Data structure: Cấu trúc dữ liệu
+
+- Danh sách liên kết.
+- Cấu trúc từ điển.
+- Bảng băm
+- Vector
+....
+
+
+Algorithm: Giải thuật
+- Lập trình đệ quy, quay lui, sort, 
+- Quy hoạch động. // Tùy trường dạy
+....
+
+
+=> Cấu trúc trúc dữ liệu và giải thuật!
+=======================================
+- Lập trình quy hoạch động. (Khó)
